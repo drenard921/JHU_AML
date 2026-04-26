@@ -2,3 +2,9 @@ TrafficLabelling /
 HW12/creditcard.csv
 .DS_Store
 HW13/IntelImageData/
+# Large local datasets
+HW10/TrafficLabelling /
+*.pcap_ISCX.csv
+*.npy
+*.npz
+.ipynb_checkpoints/
